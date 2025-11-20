@@ -4,7 +4,7 @@ import path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-	base: '/', // для pdd507.github.io (user-site)
+	base: '/', // для pdd507.github.io достаточно "/"
 	server: {
 		host: '::',
 		port: 8080,
